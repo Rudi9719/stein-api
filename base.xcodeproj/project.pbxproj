@@ -13,7 +13,6 @@
 		F39E7DD21C8E57B900112B25 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; path = static; sourceTree = "<group>"; };
 		F39E7DD31C8E57B900112B25 /* views */ = {isa = PBXFileReference; lastKnownFileType = folder; path = views; sourceTree = "<group>"; };
 		F39E7DD41C8E57C300112B25 /* frameworks */ = {isa = PBXFileReference; lastKnownFileType = folder; path = frameworks; sourceTree = "<group>"; };
-		F39E7DD61C8E756900112B25 /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,7 +20,6 @@
 			isa = PBXGroup;
 			children = (
 				F39E7DCF1C8E562F00112B25 /* main.py */,
-				F39E7DD61C8E756900112B25 /* blog */,
 				F39E7DD41C8E57C300112B25 /* frameworks */,
 				F39E7DD01C8E57B900112B25 /* api */,
 				F39E7DD11C8E57B900112B25 /* controller */,

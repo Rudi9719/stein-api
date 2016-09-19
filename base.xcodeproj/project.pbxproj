@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		F32CCBF41D907AB800627E89 /* models.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = models.py; sourceTree = "<group>"; };
 		F39E7DCF1C8E562F00112B25 /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		F39E7DD01C8E57B900112B25 /* api */ = {isa = PBXFileReference; lastKnownFileType = folder; path = api; sourceTree = "<group>"; };
 		F39E7DD11C8E57B900112B25 /* controller */ = {isa = PBXFileReference; lastKnownFileType = folder; path = controller; sourceTree = "<group>"; };
@@ -19,6 +20,7 @@
 		F39E7DC41C8E55A900112B25 = {
 			isa = PBXGroup;
 			children = (
+				F32CCBF41D907AB800627E89 /* models.py */,
 				F39E7DCF1C8E562F00112B25 /* main.py */,
 				F39E7DD41C8E57C300112B25 /* frameworks */,
 				F39E7DD01C8E57B900112B25 /* api */,
